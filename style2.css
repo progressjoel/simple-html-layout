@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+ background-color: #186a3b;
+ height: 100px;   
+ width: 100%;
+
+}
+.header{
+    height: 30%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: #fff;
+
+}
+p{
+  text-align: center;  
+  font-size: 14px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #fff;
+}
+.row-2{
+    height: 390%;
+    width: auto;
+    display: flex;
+    background: #356349;
+    margin-top: 3rem;
+}
+.col-4{
+height: auto;
+width: 100%;
+border: 20px solid #fff;
+border-style: solid;
+
+}
+.col-8{
+    height: auto;
+    width: 100%;
+    border: 20px solid #fff;
+border-style: solid;
+    
+}
+footer{
+height: auto;
+width: auto;
+background: #356349;
+}
